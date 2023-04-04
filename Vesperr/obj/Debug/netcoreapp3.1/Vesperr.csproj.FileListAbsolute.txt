@@ -1,0 +1,8 @@
+C:\Users\SRT\source\repos\Vesperr\Vesperr\obj\Debug\netcoreapp3.1\Vesperr.csproj.AssemblyReference.cache
+C:\Users\SRT\source\repos\Vesperr\Vesperr\obj\Debug\netcoreapp3.1\Vesperr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SRT\source\repos\Vesperr\Vesperr\obj\Debug\netcoreapp3.1\Vesperr.AssemblyInfoInputs.cache
+C:\Users\SRT\source\repos\Vesperr\Vesperr\obj\Debug\netcoreapp3.1\Vesperr.AssemblyInfo.cs
+C:\Users\SRT\source\repos\Vesperr\Vesperr\obj\Debug\netcoreapp3.1\Vesperr.csproj.CoreCompileInputs.cache
+C:\Users\SRT\source\repos\Vesperr\Vesperr\obj\Debug\netcoreapp3.1\Vesperr.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SRT\source\repos\Vesperr\Vesperr\obj\Debug\netcoreapp3.1\Vesperr.RazorAssemblyInfo.cache
+C:\Users\SRT\source\repos\Vesperr\Vesperr\obj\Debug\netcoreapp3.1\Vesperr.RazorAssemblyInfo.cs
